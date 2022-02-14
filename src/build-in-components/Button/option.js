@@ -1,7 +1,7 @@
 import Button from './index.svelte'
 
 
-export default option = {
+export  const option = {
     c: Button,
     type: '',
     key: 'v-btn',
